@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-Building a modern warehouse with MYSQL including ETL processes, data modeling and analytics. 
+Building a modern warehouse with SQL Server including ETL processes, data modeling and analytics. 
 
 # Data Warehouse and Analytics Project
 
@@ -40,8 +40,8 @@ This project involves:
 
 Everything is for Free!
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
-- **[MySQL Community Server](https://dev.mysql.com/downloads/mysql/?utm_source=chatgpt.com):** Lightweight database server for storing and managing your MySQL databases.
-- **[MySQL Workbench](https://dev.mysql.com/downloads/workbench/?utm_source=chatgpt.com):** Graphical user interface (GUI) for designing, managing, and interacting with MySQL databases.
+- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - ** Access to All Project Phases and Tasks.
@@ -116,7 +116,7 @@ Currently, I am improving my programming, database, and problem-solving skills t
 
 ### Skills
 - Java
-- MySQL
+- SQL Server
 - SQL Queries
 - Database Design
 - Data Analytics (Beginner)
